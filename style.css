@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background-color: #f0e8cf;
+}
+div {
+    margin-top: 15px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+h1 {
+    font-size: 100px;
+}
+img {
+    height: 1000px;
+    width: 1000px;
+}
+p {
+    font-size: 50px;
+}
+h4 {
+    font-size: 50px;
+}
